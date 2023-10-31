@@ -1,0 +1,158 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.topdiv {
+    /* border: 2px solid black; */
+    background-color: #4267b2;
+    height: 80px;
+    display: flex;
+}
+
+.OFB {
+    /* border: 2px solid black; */
+    /* background-color: red; */
+    /* margin-top: 2px; */
+    height: 78px;
+    width: 20%;
+}
+
+.facebook {
+    /* background-color: black; */
+    height: 80px;
+    color: #555
+   font-size: 50px;
+   margin: 20px;
+   padding-left: 20px   ;
+}
+
+.Oforms {
+    /* border: 2px solid maroon; */
+    height: 78px;
+    /* background-color: #4267b2; */
+    width: 30%;
+    margin-left: 50%;
+}
+.button{
+    background-color: #4267b2;
+    color: aliceblue;
+    width: 46px;
+}
+
+.content {
+    /* border: 2px solid black; */
+    /* background-color: blueviolet; */
+    display: flex;
+    height: 573px;
+}
+
+.contentleft {
+    /* background-image: linear-gradient(#4267b2,white); */
+    height: 570px;
+    /* border: 2px solid firebrick; */
+    width: 50%;
+}
+
+.uppertext {
+    
+    /* border: 2px solid wheat;
+    height: 100px; */
+}
+
+.fbimg {
+    /* border: 2px solid darkgoldenrod; */
+    height: 340px;
+    margin-top: 65.4px;
+}
+
+.contentright {
+    /* background-color: burlywood; */
+    height: 570px;
+    /* border: 2px solid firebrick; */
+    width: 50%;
+}
+
+.signup {
+    margin-top: 70px;
+    padding: 2px;
+    /* border: 2px solid royalblue; */
+    width: 60%;
+    height: 100px;
+}
+
+.stext {
+    /* border: 2px solid black;
+    width: 30%; */
+    height: 50px;
+    color: #3a5896;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.free {
+    /* border: 2px solid black;
+    height: 44px; */
+    color: #3a5896;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: x-large;
+}
+
+.foorms {
+    /* border: 2px solid fuchsia;
+    height: 300px; */
+    margin-top: 65.4px;
+    
+    
+}
+.fname{
+    color: #3a5896;
+    display: inline-block;
+    width: 110px;
+    font-size: 13px;
+    text-align: right;
+    margin-bottom: 6px;   
+    font-weight: bolder;  
+    font-family: Arial, Helvetica, sans-serif ;      
+}
+.tt{
+    font-size: 16px;
+    width: 300px;
+    margin-right: 6.7cm;
+    
+
+}
+.lower{
+    color: #4267b2;
+}
+.ower{
+    color: grey ;
+}
+img{
+    height:100% ;
+    width: 100%;
+}
+.futa{
+    /* text-align:left; */
+    padding-left: 3cm;
+    color: #4267b2;
+    font-size: small;
+}
+.buttons{
+    background-color: #358d64;
+    color: aliceblue;
+    width: 60px;
+    height: 26px;
+    margin-left: 3cm;   
+}
+.ruuboo{
+    font-size:30px;
+    padding-top: 2cm;
+    margin-left: 0%;
+    color: #3a5896; 
+    font-family: Arial, Helvetica, sans-serif ; 
+    padding-left: 30px;
+}
+.horiz{
+    width: 12cm;
+}
